@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClassGradleDemo" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-18T11:47:14" hostname="LAPTOP-QFM4BDBC" time="0.005">
+  <properties/>
+  <testcase name="testGradleDemo" classname="TestClassGradleDemo" time="0.005"/>
+  <system-out><![CDATA[test my Gradle Demo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
