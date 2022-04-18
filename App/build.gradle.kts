@@ -41,7 +41,7 @@ dependencies{
 
 application{
     //Define the main class for the application
-    mainClass.set("UserTest.Java")
+    mainClass.set("TestClassGradleDemo.java")
 }
 
 tasks.test{
